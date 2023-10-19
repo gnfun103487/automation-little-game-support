@@ -1,7 +1,7 @@
 # WARNING!!!THIS PROGARM ONLY FOR 2K MORNIOR
 If you are other type mornior, change the line 19:
-
-cmd_window[0].left =`"2420"`
+`cmd_window[0].left ="2420"`
+to your mornior piexls
 ## automation-little-game-support
 If you want DL this, you need to have these step:
 ## step1. DL python
@@ -10,19 +10,19 @@ https://www.python.org/downloads/
 ### use this code in CMD to dl module
 ### pynput:
 
-python -m pip install pynput
+`python -m pip install pynput`
 
 ### pyautogui:
 
-python -m pip install pyautogui
+`python -m pip install pyautogui`
 
 ### pyperclip:
 
-python -m pip install pyperclip
+`python -m pip install pyperclip`
 
 ### pygetwindow:
 
-python -m pip install pygetwindow
+`python -m pip install pygetwindow`
 
 ## step3. how to use
 to run this program, double click it, and you'll see a CMD on top right,
