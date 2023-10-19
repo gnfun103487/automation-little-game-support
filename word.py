@@ -16,7 +16,7 @@ i=0
 window_title = "C:\Windows\py.exe"
 cmd_window = gw.getWindowsWithTitle(window_title)
 if cmd_window:
-    cmd_window[0].left = 2420
+    cmd_window[0].left = -10
     cmd_window[0].top = -1
     cmd_window[0].width = 150
     cmd_window[0].height = 90
