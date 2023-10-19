@@ -16,9 +16,9 @@ i=0
 window_title = "C:\Windows\py.exe"
 cmd_window = gw.getWindowsWithTitle(window_title)
 if cmd_window:
-    cmd_window[0].left = 2440
+    cmd_window[0].left = 2430
     cmd_window[0].top = -1
-    cmd_window[0].width = 130
+    cmd_window[0].width = 150
     cmd_window[0].height = 90
 def on_click(x, y, button, pressed):
     if not pressed:
