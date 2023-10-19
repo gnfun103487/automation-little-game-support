@@ -1,2 +1,5 @@
 # automation-little-game-support
-I am the best
+If you want DL this, you need to have these step:
+# step1.DL python
+# DL mordle 
+pynput pyautogui pyperclip pygetwindow
