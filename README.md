@@ -1,19 +1,29 @@
 # WARNING!!!THIS PROGARM ONLY FOR 2K MORNIOR
-If you are other type mornior, change this
+If you are other type mornior, change this:
+
+cmd_window[0].left =`"2420"`
 ## automation-little-game-support
 If you want DL this, you need to have these step:
 ## step1. DL python
 https://www.python.org/downloads/
 ## step2. DL module 
 ### use this code in CMD to dl module
-pynput:
+### pynput:
+
 python -m pip install pynput
-pyautogui:
+
+### pyautogui:
+
 python -m pip install pyautogui
-pyperclip:
+
+### pyperclip:
+
 python -m pip install pyperclip
-pygetwindow:
+
+### pygetwindow:
+
 python -m pip install pygetwindow
+
 ## step3. how to use
 to run this program, double click it, and you'll see a CMD on top right,
 and move your mouse on the send icon, then click it, THAT'S IT!
