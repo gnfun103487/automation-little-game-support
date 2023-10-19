@@ -1,8 +1,7 @@
+# automation-little-game-support
 # WARNING!!!THIS PROGARM ONLY FOR 2K MORNIOR
-If you are other type mornior, change the line 19:
-`cmd_window[0].left ="2420"`
-to your mornior piexls
-## automation-little-game-support
+### If you are other type mornior, change the line 19:`cmd_window[0].left ="2420"`to your mornior pixels
+## Download-toturial
 If you want DL this, you need to have these step:
 ## step1. DL python
 https://www.python.org/downloads/
@@ -28,5 +27,5 @@ https://www.python.org/downloads/
 to run this program, double click it, and you'll see a CMD on top right,
 and move your mouse on the send icon, then click it, THAT'S IT!
 ## IF HAVE ANY QUESTION PLEASE DM ME:
-gnfun1967@gmail.com
+### gnfun1967@gmail.com
 ## have fun!
