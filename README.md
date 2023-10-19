@@ -1,6 +1,6 @@
 # automation-little-game-support
-# WARNING!!!THIS PROGARM ONLY FOR 2K MORNIOR
-### If you are other type mornior, change the line 19:`cmd_window[0].left ="2420"`to your mornior pixels
+### ~~WARNING!!!THIS PROGARM ONLY FOR 2K MORNIOR~~
+#### ~~If you are other type mornior, change the line 19:`cmd_window[0].left = 2440` to your mornior pixels~~
 ## Download-toturial
 If you want DL this, you need to have these step:
 ## step1. DL python
