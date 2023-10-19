@@ -1,5 +1,5 @@
 # WARNING!!!THIS PROGARM ONLY FOR 2K MORNIOR
-If you are other type mornior, change this:
+If you are other type mornior, change the line 19:
 
 cmd_window[0].left =`"2420"`
 ## automation-little-game-support
