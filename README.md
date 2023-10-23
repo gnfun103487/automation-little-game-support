@@ -27,8 +27,10 @@ https://www.python.org/downloads/
 ## step3. how to use (如何使用)
 to run this program, double click it, and you'll see a CMD on top left,
 and move your mouse on the send icon, then click it, THAT'S IT!
+
 中文:雙擊此程式，你會看到左上角出現計數器(此時沒文字是正常的)
 移動到你想要使用的應用程式上，點擊左鍵，這樣就好囉！
+
 ## IF HAVE ANY QUESTION PLEASE DM ME:
 ### gnfun1967@gmail.com
 ## have fun!
