@@ -1,4 +1,4 @@
-# automation-little-game-support(輔助應用程式)
+# automation-little-game-supporter(輔助應用程式)
 ### ~~WARNING!!!THIS PROGARM ONLY FOR 2K MORNIOR~~
 #### ~~If you are other type mornior, change the line 19:`cmd_window[0].left = 2440` to your mornior pixels~~
 ## Download-toturial
